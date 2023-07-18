@@ -1,0 +1,23 @@
+/* style.css for all pages */
+
+body {
+    background-color: #FFECCE;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+h1{
+    background-color: #8bc1ff;
+    text-align: center;
+}
+
+img{
+    width: auto;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2, h3 {
+    color: #773399;
+  }
