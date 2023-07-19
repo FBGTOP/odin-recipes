@@ -5,9 +5,28 @@ body {
     font-family: 'Space Grotesk', sans-serif;
 }
 
-h1{
+p{
+    margin: 10px;
+}
+
+.links {
+    text-align: center;
+}
+
+.title{
     background-color: #8bc1ff;
     text-align: center;
+    font-size: 30px;
+    padding: 30px;
+    margin: 10px;
+}
+
+.subtitle {
+    background-color: #8bc1ff;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+    color: #773399
 }
 
 img{
@@ -17,7 +36,3 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
-
-h2, h3 {
-    color: #773399;
-  }
